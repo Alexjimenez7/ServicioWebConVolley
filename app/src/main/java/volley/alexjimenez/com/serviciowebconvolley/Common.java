@@ -9,4 +9,5 @@ public class Common {
     static final int RESULT_SUCCESS = 0;
     static final int RESULT_ERROR = 1;
     static final int RESULT_USER_EXISTS = 2;
+
 }
